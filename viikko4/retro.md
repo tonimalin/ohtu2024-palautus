@@ -1,0 +1,5 @@
+Kaksi retrospektiivitekniikkaa.
+
+Aloita, lopeta, jatka, lisää, vähennä -pyörä hankkii palautetta tiimin toimmasta keskustelussa, joka kestää pienellä ryhmällä noin 10 minuuttia. Vetäjä kerää arvioita iteraatosta viiteen osaan jaetun pyörän avulla. Aloita: mitä pitäisi aloittaa tekemään, jota ei vielä tehdä. Lopeta: minkä toimintaa haittaava tai turhan asian tekeminen pitää lopettaa. Jatka: mikä asia toimii ja jota pitää edelleen jatkaa. Mitä pitäisi tehdä enemmän ja mitä vähemmän. Mielipiteet kirjataan julisteelle.
+
+Iloinen, surullinen, vihainen retrospektiivianalyysissä keskitytään enemmän laajuteen kuin syvällisyyteen. Keskustelu kestää enintään tunnin. Osallistujat kirjaavat sprintin aikana esiin tulleet havainnot toiminnasta kolmeen kategoriaan. Havainnot kirjoitetaan muistilapuille. Havainnot voivat olla myönteisiä tai kielteisiä, vihainen-kategoria auttaa ottamaan mukaan ryhmän ulkopuolisia negatiivisia asioita. Kortit ryhmitellään aiheen mukaan ja niille annetaan ääniä. Eniten ääniä saaneet asiat käsitellään ensin.
